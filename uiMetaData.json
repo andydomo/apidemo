@@ -29,11 +29,11 @@
       "showWhen": null,
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:615"
+      "$$hashKey": "object:1267"
     },
     {
       "name": "test",
-      "type": "string",
+      "type": "integer",
       "required": false,
       "order": 0,
       "options": [],
@@ -42,7 +42,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:616"
+      "$$hashKey": "object:1268"
     }
   ],
   "commands": null,
